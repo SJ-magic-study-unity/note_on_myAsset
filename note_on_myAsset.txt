@@ -1,0 +1,12 @@
+/************************************************************
+************************************************************/
+■Haunted Town
+*	copy all to asset
+*	open project
+*	del standard Asset
+		if added already 
+		
+*	del Editor/imageEffect
+		if added already 
+
+
